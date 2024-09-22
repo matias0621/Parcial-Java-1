@@ -38,7 +38,7 @@ public class AlumnoPrimaria extends Persona implements IEvaluable, IAlumno {
         }
     }
 
-    public static int getCantidadDeAlumno() {
+    public int getCantidadDeAlumno() {
         return cantidadDeAlumno;
     }
 
